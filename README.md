@@ -1,6 +1,4 @@
-#TeleBeyond Final Version
-
-**An advanced and powerful administration bot based on TeleSeed licensed under the [GNU General Public License](https://github.com/solid021/TeleBeyond/blob/master/LICENSE)**.
+#TeleGuard Final Version
 
 #Don't Forget Star To Us ;)
 
@@ -12,7 +10,7 @@
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 cd $HOME
-git clone http://Github.com/solid021/TeleBeyond.git
+git clone http://Github.com/aminkavarii/TeleGuardTeam.git
 cd TeleBeyond
 chmod +x launch.sh
 ./launch.sh install
@@ -41,7 +39,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Put Your Telegram ID In ./data/config.lua
 ```
   sudo_users = {
- 157059515,
+  97242093,
     YourID
   }
 ```
@@ -51,19 +49,13 @@ Create a realm using the `!createrealm` command.
 
 #Sudo Users :
 
-#([SoLiD](https://telegram.me/SoLiD021))
-
-#([MrHalix](https://telegram.me/MrHalix))
-
-#([Behnam](https://telegram.me/idivaNmanheB))
+#([xXD4RKXx](https://telegram.me/xXD4RKXx))
 
 #Team Channel :
 
-#([@BeyondTeam](https://telegram.me/BeyondTeam))
+#([TeleGuardTeam](https://telegram.me/TeleGuardTeam))
 
 #Special Thx To :
-
-Seed Team
 
 My Team
 
